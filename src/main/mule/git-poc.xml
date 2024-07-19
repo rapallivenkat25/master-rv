@@ -16,7 +16,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	"message": "hellow mulesoft team"
+	"message": "hellow mulesoft team this is venkat"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
